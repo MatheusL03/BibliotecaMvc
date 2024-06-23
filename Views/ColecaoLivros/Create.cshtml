@@ -1,0 +1,75 @@
+@model BibliotecaMvc.Models.ColecaoLivrosMvc
+@{
+    ViewBag.Title = "Novo Livro";
+}
+@if (@TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Mensagem"]</div>
+}
+<!--Configuração para exibir mensagem de erro -->
+@if (@TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["MensagemErro"]</div>
+}
+<!--Insira aqui os TempData de Sucesso e Erro para evitar tela da morte -->
+<h2>Criar um Novo Livro</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <hr />
+
+        <div class="form-group">
+            Nome do Livro
+            <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.NomedoLivro, new { htmlAttributes = new { @class = "form-control" } }) </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Autor, htmlAttributes: new { @class = "control-label col-md-2" }) <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.Autor, new { htmlAttributes = new { @class = "form-control" } }) </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Genero, htmlAttributes: new { @class = "control-label col-md-2" }) 
+            <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.Genero, new { htmlAttributes = new { @class = "form-control" } }) </div>
+        </div>
+
+        <div class="form-group">
+            Data do Livro 
+            <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.DataLivro, new { htmlAttributes = new { @class = "form-control" } }) </div>
+        </div>
+
+        <div class="form-group">
+            Preço
+             <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.preco, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Disponibilidade, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-6">
+                @Html.DropDownListFor(model => model.Disponibilidade, Html.GetEnumSelectList(typeof(BibliotecaMvc.Models.Enuns.DisponibilidadeEnum)),
+                         "---Selecione---", new { @class = "form-control" })
+            </div>
+            
+        </div>
+        <br/>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-6">
+                <input type="submit" value="Salvar" class="btn btn-primary">
+                 @Html.ActionLink("Retornar", "Index", "ColecaoLivros", null, new { @class = "btn btn-warning" })
+            </div>
+        </div>
+    </div>
+}

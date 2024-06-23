@@ -1,0 +1,68 @@
+@model BibliotecaMvc.Models.ColecaoLivrosMvc
+@{
+    ViewBag.Title = "Detalhes do Livro";
+}
+@if (@TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Mensagem"]</div>
+}
+<!--Configuração para exibir mensagem de erro -->
+@if (@TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["MensagemErro"]</div>
+}
+<h2>Detalhes do Livro</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+         <div class="form-group">
+            @Html.LabelFor(model => model.Id, htmlAttributes: new { @class = "control-label col-md-2" }) 
+            <div class="col-md-6">
+                @Html.EditorFor(model => model.Id, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } }) 
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.NomedoLivro, htmlAttributes: new { @class = "control-label col-md-2" }) 
+            <div class="col-md-6">
+                @Html.EditorFor(model => model.NomedoLivro, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } }) 
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Autor, htmlAttributes: new { @class = "control-label col-md-2" }) <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.Autor, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } }) </div>
+        </div>
+
+         <div class="form-group">
+            @Html.LabelFor(model => model.Genero, htmlAttributes: new { @class = "control-label col-md-2" }) <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.Genero, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } }) </div>
+        </div>
+
+         <div class="form-group">
+            @Html.LabelFor(model => model.DataLivro, htmlAttributes: new { @class = "control-label col-md-2" }) <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.DataLivro, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } }) </div>
+        </div>
+
+         <div class="form-group">
+            @Html.LabelFor(model => model.preco, htmlAttributes: new { @class = "control-label col-md-2" }) <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.preco, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } }) </div>
+        </div>
+
+         <div class="form-group">
+            @Html.LabelFor(model => model.Disponibilidade, htmlAttributes: new { @class = "control-label col-md-2" }) <div
+                class="col-md-6">
+                @Html.EditorFor(model => model.Disponibilidade, new { htmlAttributes = new { @class = "form-control",@readonly = "readonly" } }) </div>
+        </div>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }, new { @class = "btn btn-primary" }) 
+    @Html.ActionLink("Retornar", "Index", "ColecaoLivros", null, new { @class = "btn btn-warning" })
+</p>

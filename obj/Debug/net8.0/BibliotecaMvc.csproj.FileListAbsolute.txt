@@ -1,0 +1,132 @@
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\bin\Debug\net8.0\appsettings.Development.json
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\bin\Debug\net8.0\appsettings.json
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.staticwebassets.runtime.json
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.exe
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.deps.json
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.runtimeconfig.json
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.pdb
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.AssemblyReference.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.AssemblyInfoInputs.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.AssemblyInfo.cs
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.CoreCompileInputs.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.RazorAssemblyInfo.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.RazorAssemblyInfo.cs
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.build.json
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.development.json
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.BibliotecaMvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.build.BibliotecaMvc.props
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BibliotecaMvc.props
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BibliotecaMvc.props
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\scopedcss\bundle\BibliotecaMvc.styles.css
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\scopedcss\projectbundle\BibliotecaMvc.bundle.scp.css
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.CopyComplete
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\refint\BibliotecaMvc.dll
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.pdb
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.genruntimeconfig.cache
+D:\Personal\ETEC\Projetos\2024-1-DS\Matheus\Nova pasta\BibliotecaMvc\obj\Debug\net8.0\ref\BibliotecaMvc.dll
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\bin\Debug\net8.0\appsettings.json
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.staticwebassets.runtime.json
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.exe
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.deps.json
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.dll
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.pdb
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.RazorAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.RazorAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.BibliotecaMvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.build.BibliotecaMvc.props
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BibliotecaMvc.props
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BibliotecaMvc.props
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\scopedcss\bundle\BibliotecaMvc.styles.css
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\scopedcss\projectbundle\BibliotecaMvc.bundle.scp.css
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\Bibliote.53388F34.Up2Date
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.dll
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\refint\BibliotecaMvc.dll
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.pdb
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\DS\BibliotecaMvc\obj\Debug\net8.0\ref\BibliotecaMvc.dll
+E:\DS\BibliotecaMvc\bin\Debug\net8.0\appsettings.Development.json
+E:\DS\BibliotecaMvc\bin\Debug\net8.0\appsettings.json
+E:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.staticwebassets.runtime.json
+E:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.exe
+E:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.deps.json
+E:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.runtimeconfig.json
+E:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.dll
+E:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.pdb
+E:\DS\BibliotecaMvc\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.AssemblyReference.cache
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.GeneratedMSBuildEditorConfig.editorconfig
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.AssemblyInfoInputs.cache
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.AssemblyInfo.cs
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.CoreCompileInputs.cache
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.MvcApplicationPartsAssemblyInfo.cache
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.RazorAssemblyInfo.cache
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.RazorAssemblyInfo.cs
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.build.json
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.development.json
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.BibliotecaMvc.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.build.BibliotecaMvc.props
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BibliotecaMvc.props
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BibliotecaMvc.props
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.pack.json
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\scopedcss\bundle\BibliotecaMvc.styles.css
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\scopedcss\projectbundle\BibliotecaMvc.bundle.scp.css
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.CopyComplete
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.dll
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\refint\BibliotecaMvc.dll
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.pdb
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.genruntimeconfig.cache
+E:\DS\BibliotecaMvc\obj\Debug\net8.0\ref\BibliotecaMvc.dll
+D:\DS\BibliotecaMvc\bin\Debug\net8.0\appsettings.Development.json
+D:\DS\BibliotecaMvc\bin\Debug\net8.0\appsettings.json
+D:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.staticwebassets.runtime.json
+D:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.exe
+D:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.deps.json
+D:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.runtimeconfig.json
+D:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.dll
+D:\DS\BibliotecaMvc\bin\Debug\net8.0\BibliotecaMvc.pdb
+D:\DS\BibliotecaMvc\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.AssemblyReference.cache
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.AssemblyInfoInputs.cache
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.AssemblyInfo.cs
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.csproj.CoreCompileInputs.cache
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.RazorAssemblyInfo.cache
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.RazorAssemblyInfo.cs
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.build.json
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.development.json
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.BibliotecaMvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.build.BibliotecaMvc.props
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BibliotecaMvc.props
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BibliotecaMvc.props
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\scopedcss\bundle\BibliotecaMvc.styles.css
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\scopedcss\projectbundle\BibliotecaMvc.bundle.scp.css
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\Bibliote.53388F34.Up2Date
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.dll
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\refint\BibliotecaMvc.dll
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.pdb
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\BibliotecaMvc.genruntimeconfig.cache
+D:\DS\BibliotecaMvc\obj\Debug\net8.0\ref\BibliotecaMvc.dll
