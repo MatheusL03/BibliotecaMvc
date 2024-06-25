@@ -93,7 +93,7 @@ namespace BibliotecaMvc.Controllers
 
 
                     TempData["Mensagem"] = string.Format("Bem-vindo {0}!!!", uLogado.Username);
-                    return RedirectToAction("Index", "Personagens");
+                    return RedirectToAction("Index", "ColecaoLivros");
                 }
                 else
                 {
